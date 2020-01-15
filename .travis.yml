@@ -11,6 +11,7 @@ addons:
 compiler:
   - clang
   - gcc
+  - ndk
 matrix:
     exclude:
         - os: osx
